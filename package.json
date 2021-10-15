@@ -22,6 +22,7 @@
     "url": "https://github.com/neruchev/i18next-electron-language-detector/issues"
   },
   "main": "dist/index.js",
+  "types": "index.d.ts",
   "scripts": {
     "build": "babel src -d dist"
   },
